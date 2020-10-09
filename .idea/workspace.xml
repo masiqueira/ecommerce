@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c4f04ca5-58e3-4f55-9334-2c12861b85aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +38,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/site" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/site" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vendor/masiqueira" />
     </key>
@@ -51,7 +59,7 @@
       <updated>1602184088066</updated>
       <workItem from="1602184089130" duration="1140000" />
       <workItem from="1602185241856" duration="26000" />
-      <workItem from="1602185280552" duration="9012000" />
+      <workItem from="1602185280552" duration="10432000" />
     </task>
     <servers />
   </component>
