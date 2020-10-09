@@ -2,248 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4f04ca5-58e3-4f55-9334-2c12861b85aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/masiqueira/src/DB/Sql.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/DKIM.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/DKIM.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/code_generator.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contactform.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contactform.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contents.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/contentsutf8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/exceptions.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/gmail_xoauth.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/images/phpmailer_mini.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mail.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/mailing_list.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/pop_before_smtp.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/XRegExp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shAutoloader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shBrushPhp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shCore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/scripts/shLegacy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_file_upload.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_multiple_file_upload.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/send_multiple_file_upload.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/sendmail.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/signed-mail.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_check.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/ssl_options.phps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCore.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDefault.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreDjango.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreEmacs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreFadeToGrey.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMDUltra.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreMidnight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shCoreRDark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeAppleScript.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDefault.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeDjango.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEclipse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeEmacs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeFadeToGrey.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMDUltra.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeMidnight.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeRDark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/shThemeVisualStudio.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/examples/styles/wrapping.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-am.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-all.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-all.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-draw-string.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-draw-string.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-extend-class.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-extend-class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-nested-loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-nested-loop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-plugin-img-resize.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-plugin-img-resize.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-simple.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-simple.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage-new.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage-new.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/example-webpage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Exception.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/IPlugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/IPlugin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/NotFoundException.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/NotFoundException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/Compress.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/Compress.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/ImageResize.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/ImageResize.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/PathReplace.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/Plugin/PathReplace.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/PluginContainer.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/PluginContainer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/SyntaxException.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/library/Rain/Tpl/SyntaxException.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/less-1.1.5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/bootstrap/js/less-1.1.5.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/logo.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/logo.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/wysiwyg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/img/wysiwyg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/image_resize/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/nested_loop/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/bottom.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/img/top.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bg.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bottom.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/bottom.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy_text.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/easy_text.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast_text.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/fast_text.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/googlegroup.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/googlegroup.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/groups_logo_sm.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/home_title.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/home_title.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/list.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/pencil.png" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/pencil.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/search.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/search.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/top.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/top.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful_text.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/useful_text.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg_text.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/img/wysiwyg_text.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/subfolder/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/raintpl3/subfolder/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/simple_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/simple_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/simple/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/templates/test/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginContainerTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginContainerTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/Tpl/PluginTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/TplTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/TplTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/_files/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/rain/raintpl/tests/Rain/_files/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/README.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/README.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Environment.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Environment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Pass.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Pass.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/RequestSlash.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/RequestSlash.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Stop.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Exception/Stop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Headers.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Headers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Request.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Response.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Response.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Util.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Http/Util.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Log.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Log.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/LogWriter.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/LogWriter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/ContentTypes.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/ContentTypes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/Flash.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/Flash.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/MethodOverride.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/MethodOverride.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/SessionCookie.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Middleware/SessionCookie.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Route.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Route.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/Slim.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/Slim.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/Slim/View.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/Slim/View.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/phpunit.xml.dist" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/phpunit.xml.dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/EnvironmentTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/EnvironmentTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Foo.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Foo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/HeadersTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/HeadersTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/RequestTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/RequestTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/ResponseTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/ResponseTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/UtilTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Http/UtilTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/LogTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/LogTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/LogWriterTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/LogWriterTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/ContentTypesTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/ContentTypesTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/FlashTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/FlashTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/MethodOverrideTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/MethodOverrideTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/PrettyExceptionsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/PrettyExceptionsTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/SessionCookieTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/Middleware/SessionCookieTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/MiddlewareTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/MiddlewareTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/README" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/RouteTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/RouteTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/RouterTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/RouterTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/SlimTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/SlimTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/ViewTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/ViewTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/slim/slim/tests/templates/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/slim/slim/tests/templates/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +51,7 @@
       <updated>1602184088066</updated>
       <workItem from="1602184089130" duration="1140000" />
       <workItem from="1602185241856" duration="26000" />
-      <workItem from="1602185280552" duration="5324000" />
+      <workItem from="1602185280552" duration="9012000" />
     </task>
     <servers />
   </component>
@@ -299,10 +59,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1143" y="263" width="564" height="556" key="NewPhpClassDialog" timestamp="1602185806465">
+    <state x="1143" y="263" width="669" height="556" key="NewPhpClassDialog" timestamp="1602247462689">
       <screen x="0" y="342" width="1920" height="738" />
     </state>
-    <state x="1143" y="263" width="564" height="556" key="NewPhpClassDialog/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602185806465" />
+    <state x="1143" y="263" width="669" height="556" key="NewPhpClassDialog/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602247462689" />
     <state x="1250" y="466" width="349" height="151" key="NewPhpFileDialog" timestamp="1602185883146">
       <screen x="0" y="342" width="1920" height="738" />
     </state>
