@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c4f04ca5-58e3-4f55-9334-2c12861b85aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/masiqueira/src/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/masiqueira/src/Page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +52,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/admin" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/admin" />
+      <recent name="$PROJECT_DIR$/vendor/masiqueira/src" />
+      <recent name="$PROJECT_DIR$/res/admin" />
       <recent name="$PROJECT_DIR$/res/site" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/admin" />
       <recent name="$PROJECT_DIR$/vendor/masiqueira" />
     </key>
   </component>
@@ -59,12 +77,23 @@
       <updated>1602184088066</updated>
       <workItem from="1602184089130" duration="1140000" />
       <workItem from="1602185241856" duration="26000" />
-      <workItem from="1602185280552" duration="10432000" />
+      <workItem from="1602185280552" duration="12062000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1143" y="263" width="669" height="556" key="NewPhpClassDialog" timestamp="1602247462689">
