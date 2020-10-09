@@ -22,13 +22,15 @@
     <list default="true" id="c4f04ca5-58e3-4f55-9334-2c12861b85aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/masiqueira/src/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/masiqueira/src/Page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/footer.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/header.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/index.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/masiqueira/src/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/masiqueira/src/Model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/masiqueira/src/Model/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/masiqueira/src/Model/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/footer.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/footer.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/header.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/header.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/index.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/index.4d7fcbba9fd88b77cff2a5a80e4d277b.rtpl.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views-cache/login.345dee1f4d49b830d3b6e2d7e9de2a49.rtpl.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/views/admin/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/admin/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,7 @@
       <updated>1602184088066</updated>
       <workItem from="1602184089130" duration="1140000" />
       <workItem from="1602185241856" duration="26000" />
-      <workItem from="1602185280552" duration="16724000" />
+      <workItem from="1602185280552" duration="21696000" />
     </task>
     <servers />
   </component>
@@ -104,6 +106,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1208" y="285" width="424" height="515" key="FileChooserDialogImpl" timestamp="1602270625180">
+      <screen x="0" y="342" width="1920" height="738" />
+    </state>
+    <state x="1208" y="285" width="424" height="515" key="FileChooserDialogImpl/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602270625180" />
     <state x="1143" y="263" width="711" height="556" key="NewPhpClassDialog" timestamp="1602261462706">
       <screen x="0" y="342" width="1920" height="738" />
     </state>
@@ -112,9 +118,9 @@
       <screen x="0" y="342" width="1920" height="738" />
     </state>
     <state x="1250" y="466" width="349" height="151" key="NewPhpFileDialog/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602185883146" />
-    <state x="1165" y="454" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602260680091">
+    <state x="1165" y="454" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1602272732844">
       <screen x="0" y="342" width="1920" height="738" />
     </state>
-    <state x="1165" y="454" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602260680091" />
+    <state x="1165" y="454" width="540" height="174" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.312.1366.768/0.342.1920.738@0.342.1920.738" timestamp="1602272732844" />
   </component>
 </project>
